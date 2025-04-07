@@ -4,7 +4,6 @@ export function insertAddonList(content_addons) {
     Object.values(content_addons).forEach(item => {
         const a = document.createElement("a");
         a.href = item.link;
-        a.target = "_blank";
         const div = document.createElement("div");
         const img = document.createElement("img");
         img.src = item.img;

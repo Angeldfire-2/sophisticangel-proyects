@@ -5,23 +5,23 @@ export function importBar(texturePath) {
                 <img src="${texturePath}" alt="">
                 <div class="separador"></div>
                 <div class="social">
-                    <a href="">
+                    <a href="https://discord.com/invite/SG438MSVhD">
                         <img src="https://i.postimg.cc/0y8CrCMh/discord.png" alt="">
                         <h4>Discord</h4>
                     </a>
-                    <a href="">
+                    <a href="https://www.youtube.com/@angeldfire2">
                         <img src="https://i.postimg.cc/d328V7qq/youtube.png" alt="">
                         <h4>Youtube</h4>
                     </a>
-                    <a href="">
+                    <a href="https://www.tiktok.com/@angeldfire2?_t=8q4nNxBBTM5&_r=1">
                         <img src="https://i.postimg.cc/nrb4xKfR/tiktok.png" alt="">
                         <h4>Tiktok</h4>
                     </a>
-                    <a href="">
+                    <a href="https://discord.com/invite/SG438MSVhD">
                         <img src="https://i.postimg.cc/BnMBF12b/help.png" alt="">
                         <h4>Support</h4>
                     </a>
-                    <a href="">
+                    <a href="https://discord.com/invite/Q23CCDR492">
                         <img src="https://i.postimg.cc/QMzg4G4r/dark.png" alt="">
                         <h4>Dark</h4>
                     </a>
@@ -36,31 +36,31 @@ export function importBar(texturePath) {
                 <div class="social-phone">
                     <ul style="list-style-type: none;">
                         <li>
-                            <a href="">
+                            <a href="https://discord.com/invite/SG438MSVhD">
                                 <img src="https://i.postimg.cc/0y8CrCMh/discord.png" alt="">
                                 <h4>Discord</h4>
                             </a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="https://www.youtube.com/@angeldfire2">
                                 <img src="https://i.postimg.cc/d328V7qq/youtube.png" alt="">
                                 <h4>Youtube</h4>
                             </a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="https://www.tiktok.com/@angeldfire2?_t=8q4nNxBBTM5&_r=1">
                                 <img src="https://i.postimg.cc/nrb4xKfR/tiktok.png" alt="">
                                 <h4>Tiktok</h4>
                             </a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="https://discord.com/invite/SG438MSVhD">
                                 <img src="https://i.postimg.cc/BnMBF12b/help.png" alt="">
                                 <h4>Support</h4>
                             </a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="https://discord.com/invite/Q23CCDR492">
                                 <img src="https://i.postimg.cc/QMzg4G4r/dark.png" alt="">
                                 <h4>Dark</h4>
                             </a>
